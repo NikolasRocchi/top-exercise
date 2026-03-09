@@ -1,0 +1,18 @@
+h2 {
+    text-align: center;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    padding: 36px;
+}
+
+.char {
+    background-color: #0000009f;
+}
+
+.quote {
+    background-color: #0000009f;
+}
